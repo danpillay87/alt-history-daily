@@ -23,7 +23,22 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 12 Jun 2026 12:41:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 17:24:14 GMT</lastBuildDate>
+
+    <item>
+      <title>The Sverdlovsk Log</title>
+      <description>October 1970. The Politburo committee reviewing Viktor Glushkov's OGAS — the All-State Automated System, a proposed nationwide computer network to run the planned economy — approves it instead of shelving it. In our timeline the project died that month, defeated not on technical grounds but by th...</description>
+      <itunes:summary>October 1970. The Politburo committee reviewing Viktor Glushkov's OGAS — the All-State Automated System, a proposed nationwide computer network to run the planned economy — approves it instead of shelving it. In our timeline the project died that month, defeated not on technical grounds but by th...</itunes:summary>
+      <itunes:author>Linear A</itunes:author>
+      <pubDate>Fri, 12 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">altdaily-2026-06-12-the-sverdlovsk-log</guid>
+      <enclosure url="https://danpillay87.github.io/linear-a/2026-06-12%20-%20The%20Sverdlovsk%20Log.mp3" type="audio/mpeg" length="0"/>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 
     <item>
       <title>The Outrigger at Limuw</title>
