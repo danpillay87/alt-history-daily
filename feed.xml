@@ -8,6 +8,8 @@
     <link>https://danpillay87.github.io/linear-a/</link>
     <atom:link href="https://danpillay87.github.io/linear-a/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-GB</language>
+    <copyright>Â© 2026 Linear A</copyright>
+    <itunes:subtitle>History wrote two scripts. Only one was ever deciphered.</itunes:subtitle>
     <description>History wrote two scripts. Only one was ever deciphered. Fifteen-minute alt-history short fiction â€” a single household, a single document, a single journey, set in a world where one historical contingency went the other way. New episodes appear when they appear.</description>
     <itunes:author>Linear A</itunes:author>
     <itunes:summary>History wrote two scripts. Only one was ever deciphered. Fifteen-minute alt-history short fiction â€” a single household, a single document, a single journey, set in a world where one historical contingency went the other way. New episodes appear when they appear.</itunes:summary>
@@ -21,7 +23,7 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 12 Jun 2026 09:08:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 09:37:04 GMT</lastBuildDate>
 
     <item>
       <title>The Outrigger at Limuw</title>
@@ -31,6 +33,9 @@
       <pubDate>Tue, 09 Jun 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="false">altdaily-2026-06-09-the-outrigger-at-limuw</guid>
       <enclosure url="https://danpillay87.github.io/linear-a/2026-06-09%20-%20The%20Outrigger%20at%20Limuw.mp3" type="audio/mpeg" length="0"/>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -43,6 +48,9 @@
       <pubDate>Tue, 09 Jun 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="false">altdaily-2026-06-09-the-bayt-al-hikma-auction</guid>
       <enclosure url="https://danpillay87.github.io/linear-a/2026-06-09%20-%20The%20Bayt%20al-Hikma%20Auction.mp3" type="audio/mpeg" length="0"/>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -55,6 +63,9 @@
       <pubDate>Tue, 02 Jun 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="false">altdaily-2026-06-02-the-midwife-of-kaskaskia</guid>
       <enclosure url="https://danpillay87.github.io/linear-a/2026-06-02%20-%20The%20Midwife%20of%20Kaskaskia.mp3" type="audio/mpeg" length="0"/>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
